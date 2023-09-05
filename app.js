@@ -951,17 +951,17 @@ console.log("New", newArr);
 // Sizda 2 ta son bor shu sonlarni ko'paytmasini 3 ga qoldiqli bo'ladigan function yozing
 
 
-let array = [23, 34, 45, 67, 78, 29];
+// let array = [23, 34, 45, 67, 78, 29];
 
-let kattaSonlar = [];
+// let kattaSonlar = [];
 
-function katta(array) {
-  for (let i = 0; i < array.length; i++) {
-    if (array[i] > 40) {
-      kattaSonlar.push(array[i]);
-    }
-  }
-}
+// function katta(array) {
+//   for (let i = 0; i < array.length; i++) {
+//     if (array[i] > 40) {
+//       kattaSonlar.push(array[i]);
+//     }
+//   }
+// }
 
-katta(array);
-console.log(kattaSonlar); 
+// katta(array);
+// console.log(kattaSonlar); 
